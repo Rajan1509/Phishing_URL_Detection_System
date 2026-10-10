@@ -1,3 +1,4 @@
+<!-- <<<<<<< HEAD
 # Phishing URL Detection System 🛡️
 
 A real-time Machine Learning and Natural Language Processing (NLP) web application that detects malicious and phishing URLs at point-of-click with **96.43% accuracy** and **sub-50ms inference latency**.
@@ -110,3 +111,6 @@ Phishing_URL_Detection_System/
 - **Recall on Phishing URLs:** `90%`
 - **False-Positive Rate:** `< 0.99%` (787 / 78,670 benign samples)
 - **Average Inference Latency:** `~4.2 ms` (Total HTTP response `< 50 ms`)
+=======
+# Phishing_URL_Detection_System
+>>>>>>> 3abbd1bde8d37d3fad4fc2c346840c8cdea8993e -->
